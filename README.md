@@ -1,17 +1,4 @@
 
-<p align="center">
-<div style="
-  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-  padding: 20px;
-  border-radius: 20px;
-  box-shadow: 0 15px 35px rgba(0,0,0,0.4);
-  text-align: center;
-  margin: 30px auto;
-  width: fit-content;">
-  <img src="browntrout.png" style="width:500px; height:200px; border-radius:12px;" />
-</div>
-</p>
-
 Scripts rédigés par : 
 
 - Manon Halouin
@@ -50,4 +37,17 @@ Les scripts ont été construits selon une suite logique permettant de passer de
 - 05_GAMM.R : ce script a pour objectif de construire le modèle GAMM pour différencier l'effet des traitements
 
 - 06_VIO.R : ce script a pour objectif d'estimer la variabilité inter-opérateur sur l'étape de traçage des points de la tête et de la queue
+
+<p align="center">
+<div style="
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 15px 35px rgba(0,0,0,0.4);
+  text-align: center;
+  margin: 30px auto;
+  width: fit-content;">
+  <img src="browntrout.png" style="width:500px; height:200px; border-radius:12px;" />
+</div>
+</p>
 
