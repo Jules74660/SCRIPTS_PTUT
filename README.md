@@ -1,7 +1,21 @@
-Manon Halouin
-Eva Teleitchea
-Julien Roes
-Nathan Leclerc
+
+<div style="
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 15px 35px rgba(0,0,0,0.4);
+  text-align: center;
+  margin: 30px auto;
+  width: fit-content;">
+  <img src="browntrout.png" style="width:500px; height:200px; border-radius:12px;" />
+</div>
+
+Scripts rédigés par : 
+
+- Manon Halouin
+- Eva Teleitchea
+- Julien Roes
+- Nathan Leclerc
 
 # Contexte du projet 
 
