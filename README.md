@@ -1,4 +1,5 @@
 
+<p align="center">
 <div style="
   background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
   padding: 20px;
@@ -9,6 +10,7 @@
   width: fit-content;">
   <img src="browntrout.png" style="width:500px; height:200px; border-radius:12px;" />
 </div>
+</p>
 
 Scripts rédigés par : 
 
